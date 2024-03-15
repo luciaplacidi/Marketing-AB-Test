@@ -1,4 +1,4 @@
-# Marketing-AB-Test
+# Marketing Ad Campaign A/B Test
 ## Project Overview
 
 This project is to assess the impact of two marketing campaigns and whether an ad campaign results in more customer conversion. To do this, an A/B Test will be done.
